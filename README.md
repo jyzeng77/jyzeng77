@@ -1,4 +1,4 @@
-hi, my name is jerry and it's so great to see you!
+hi, my name is jerry and it's so great to meet you!
 
 - undergrad math @ uwaterloo
 - i'm geting better at the fundamentals with leetcode practice 💻
