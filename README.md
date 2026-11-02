@@ -1,9 +1,9 @@
 hi, my name is jerry and it's so great to meet you!
 
 - undergrad math @ uwaterloo
-- i'm geting better at the fundamentals with leetcode practice 💻
-- working on some side projects ✨
-- contact me via [j75zeng@uwaterloo.ca](j75zeng@uwaterloo.ca) ✉️
+- i'm geting better at the fundamentals with leetcode practice
+- working on some side projects
+- contact me via [✉️ j75zeng@uwaterloo.ca](j75zeng@uwaterloo.ca) 
 
 <!--
 **jyzeng77/jyzeng77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
